@@ -8,6 +8,11 @@ In the given Social_Network_Ads Dataset , predict which customers are more likel
 - Here, the dependent variable is ‘Purchased’ where 1 = Customer has purchased the 
 Social Network Ad and 0 = Customer has not purchased the Social Network Ad.
 
+### Model used:
+- Logistic model
+- Support vector machine (SVC)
+- Random FOreste
+-  Stat Model
 
 ### data set
 https://www.kaggle.com/rakeshrau/social-network-ads
