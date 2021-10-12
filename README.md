@@ -9,7 +9,7 @@ In the given Social_Network_Ads Dataset , predict which customers are more likel
 Social Network Ad and 0 = Customer has not purchased the Social Network Ad.
 
 ### Model used:
-- Logistic model
+- Logistic Regression model
 - Support vector machine (SVC)
 - Random FOreste
 -  Stat Model
